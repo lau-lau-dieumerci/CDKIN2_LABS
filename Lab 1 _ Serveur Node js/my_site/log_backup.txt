@@ -1,0 +1,46 @@
+Le serveur tourne sur le port 5000
+Le serveur tourne sur le port 5000
+La page comporte une simulation des erreurs
+La page tourne sans problème
+La page tourne sans problème
+La page tourne sans problème
+La page comporte une simulation des erreurs
+/home/lau/my_site/start_server_home_helpd.sh: ligne 2: node : commande introuvable
+La page comporte une simulation des erreurs
+Le serveur tourne sur le port 5000
+La page comporte une simulation des erreurs
+La page tourne sans problème
+La page comporte une simulation des erreurs
+La page comporte une simulation des erreurs
+La page comporte une simulation des erreurs
+/home/lau/my_site/log_server.sh: ligne 2: node : commande introuvable
+/home/lau/my_site/log_server.sh: ligne 2: node : commande introuvable
+/home/lau/my_site/log_server.sh: ligne 2: node : commande introuvable
+/home/lau/my_site/log_server.sh: ligne 2: node : commande introuvable
+/home/lau/my_site/log_server.sh: ligne 2: node : commande introuvable
+/home/lau/my_site/log_server.sh: ligne 2: node : commande introuvable
+/home/lau/my_site/log_server.sh: ligne 2: node : commande introuvable
+/home/lau/my_site/log_server.sh: ligne 2: node : commande introuvable
+/home/lau/my_site/log_server.sh: ligne 2: node : commande introuvable
+/home/lau/my_site/log_server.sh: ligne 2: node : commande introuvable
+Le serveur tourne sur le port 5000
+/home/lau/my_site/log_server.sh: ligne 2: node : commande introuvable
+/home/lau/my_site/log_server.sh: ligne 2: node : commande introuvable
+La page tourne sans problème
+La page comporte une simulation des erreurs
+La page tourne sans problème
+La page tourne sans problème
+La page tourne sans problème
+La page tourne sans problème
+La page tourne sans problème
+La page tourne sans problème
+La page tourne sans problème
+La page tourne sans problème
+La page tourne sans problème
+La page tourne sans problème
+La page tourne sans problème
+La page tourne sans problème
+La page tourne sans problème
+La page tourne sans problème
+La page tourne sans problème
+La page tourne sans problème

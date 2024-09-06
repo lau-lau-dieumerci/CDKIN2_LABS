@@ -1,0 +1,2 @@
+#!/bin/bash
+* * * * * sleep 5; /home/lau/journalisation_backup.sh
